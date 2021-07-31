@@ -4,5 +4,5 @@
 - 👀 I’m interested in ... cloud computing 
 - 🌱 I’m currently learning ...aws
 - 💞️ I’m looking to collaborate on ... python 
-- 📫 How to reach me ... linkin
+- 📫 How to reach me ... linkedin 
 
